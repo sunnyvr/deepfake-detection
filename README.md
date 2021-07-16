@@ -1,4 +1,5 @@
 # deepfake-detection
+# ***STILL A WORK IN PROGRESS - WILL KEEP UPDATING*** #
 ## Description ##
 MSc Project on DeepFake video detection.<br /><br />
 This project intends to show how to use [Python](https://www.python.org/ "Python"), [Keras](https://keras.io/ "Keras"), and [TensorFlow](https://www.tensorflow.org/ "TensorFlow") to build a deep learning-based deepfake detection model from the ground up. The proposed deepfake detector is based on the state-of-the-art EfficientNet structure, with certain network layer tweaks, and the example models were trained on a large and diverse set of deepfake datasets.<br />
